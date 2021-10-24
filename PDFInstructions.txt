@@ -1,0 +1,23 @@
+Zip File :
+
+
+The password scheme is infected666 followed by the last character before the zip extension. e.g abc.zip will have the password infected666c. See the name of the file you are downloading and the character before the dot.
+
+ You can access all the files from the dropbox here and some got moved to AWS. Let me know if you can't find it
+
+
+Sources :
+
+MALWARE (most)
+https://www.dropbox.com/sh/i6ed6v32x0fp94z/AAAQvOsOvbWrOs8T3_ZTXqQya?dl=0
+
+MOBILE
+If you need mobile malware,  they all can be found here http://contagiomobile.deependresearch.org/index.html  The old files (prior to 2012) may nave the pass 'infected'
+ 
+PCAPs
+Pcaps download and pcap sample password is infected666p. I fixed the main download link but they are also here https://www.dropbox.com/sh/wje7mxs4nour40k/AAC3Zpoa5wLNwsGRvKxR9AnVa?dl=0
+
+Note :
+
+We neither own the data nor tested it. We dont own responsibility for any damage caused by this data to you.
+Please use this with caution.
